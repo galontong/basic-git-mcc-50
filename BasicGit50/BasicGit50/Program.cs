@@ -11,5 +11,31 @@ namespace BasicGit50
             Console.WriteLine("Halo ini nabila");
             Console.WriteLine("Farhan");
         }
+
+        static void MethodHerul()
+        {
+        }
+        static void MethodFahmi()
+        {
+        }
+
+        static void MethodFarhan()
+        {
+        }
+
+        static void MethodFebi()
+        {
+        }
+
+        static void MethodFaras()
+        {
+        }
+
+        static void MethodPutri()
+        {
+        }
+        static void MethodNabila()
+        {
+        }
     }
 }
