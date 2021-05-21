@@ -37,6 +37,8 @@ namespace BasicGit50
 
         static void MethodPutri()
         {
+            Console.WriteLine("Putri Ayu Merubah");
+            Console.WriteLine("Coba coba");
         }
         static void MethodNabila()
         {
