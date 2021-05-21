@@ -26,6 +26,7 @@ namespace BasicGit50
 
         static void MethodFebi()
         {
+            Console.WriteLine("Method Febi");
         }
 
         static void MethodFaras()
