@@ -1,0 +1,12 @@
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/bin/Debug/netcoreapp3.1/BasicGit50.deps.json
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/bin/Debug/netcoreapp3.1/BasicGit50.runtimeconfig.json
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/bin/Debug/netcoreapp3.1/BasicGit50.runtimeconfig.dev.json
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/bin/Debug/netcoreapp3.1/BasicGit50.dll
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/bin/Debug/netcoreapp3.1/BasicGit50.pdb
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.csprojAssemblyReference.cache
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.AssemblyInfoInputs.cache
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.AssemblyInfo.cs
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.csproj.CoreCompileInputs.cache
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.dll
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.pdb
+/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.genruntimeconfig.cache
