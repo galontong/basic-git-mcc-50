@@ -14,6 +14,7 @@ namespace BasicGit50
 
         static void MethodHerul()
         {
+            Console.WriteLine("Herul");
         }
         static void MethodFahmi()
         {
