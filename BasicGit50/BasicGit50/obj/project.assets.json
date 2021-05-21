@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/sitinabilarahmah/.nuget/packages/": {}
+    "C:\\Users\\My Leppy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/BasicGit50.csproj",
+      "projectUniqueName": "C:\\Users\\My Leppy\\Documents\\GitHub\\basic-git-mcc-50\\BasicGit50\\BasicGit50\\BasicGit50.csproj",
       "projectName": "BasicGit50",
-      "projectPath": "/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/BasicGit50.csproj",
-      "packagesPath": "/Users/sitinabilarahmah/.nuget/packages/",
-      "outputPath": "/Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/",
+      "projectPath": "C:\\Users\\My Leppy\\Documents\\GitHub\\basic-git-mcc-50\\BasicGit50\\BasicGit50\\BasicGit50.csproj",
+      "packagesPath": "C:\\Users\\My Leppy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\My Leppy\\Documents\\GitHub\\basic-git-mcc-50\\BasicGit50\\BasicGit50\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sitinabilarahmah/.config/NuGet/NuGet.Config"
+        "C:\\Users\\My Leppy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

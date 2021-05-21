@@ -10,3 +10,16 @@
 /Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.dll
 /Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.pdb
 /Users/sitinabilarahmah/Documents/GitHub/basic-git-mcc-50/BasicGit50/BasicGit50/obj/Debug/netcoreapp3.1/BasicGit50.genruntimeconfig.cache
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.exe
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.deps.json
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.runtimeconfig.json
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.runtimeconfig.dev.json
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.dll
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\bin\Debug\netcoreapp3.1\BasicGit50.pdb
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.csprojAssemblyReference.cache
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.AssemblyInfoInputs.cache
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.AssemblyInfo.cs
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.csproj.CoreCompileInputs.cache
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.dll
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.pdb
+C:\Users\My Leppy\Documents\GitHub\basic-git-mcc-50\BasicGit50\BasicGit50\obj\Debug\netcoreapp3.1\BasicGit50.genruntimeconfig.cache
