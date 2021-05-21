@@ -30,6 +30,8 @@ namespace BasicGit50
 
         static void MethodFaras()
         {
+            Console.WriteLine("Faras was here !");
+
         }
 
         static void MethodPutri()
