@@ -22,6 +22,7 @@ namespace BasicGit50
 
         static void MethodFarhan()
         {
+            Console.WriteLine("Farhan");
         }
 
         static void MethodFebi()
