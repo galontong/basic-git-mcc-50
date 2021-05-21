@@ -37,6 +37,7 @@ namespace BasicGit50
         }
         static void MethodNabila()
         {
+            Console.WriteLine("Nabila");
         }
     }
 }
