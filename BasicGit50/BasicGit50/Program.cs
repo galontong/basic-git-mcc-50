@@ -19,6 +19,7 @@ namespace BasicGit50
         static void MethodFahmi()
         {
             Console.WriteLine("Fahmi Anwar");
+            Console.WriteLine("Coba Method Fahmi");
         }
 
         static void MethodFarhan()
